@@ -1,0 +1,17 @@
+  @import url('https://fonts.googleapis.com/css2?family=Gilda+Display&display=swap');
+  .lettersPage {
+      margin-top: 50px;
+  }
+  .lettersPage {
+      height:70vh;
+  }
+  #svgText {
+      /* height:500px; */
+      position: absolute;
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      -khtml-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+  }

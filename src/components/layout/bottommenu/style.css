@@ -1,0 +1,17 @@
+.bottomMenuContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+g {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 30px; */
+    height: 60px;
+    width: 200px;
+    background-color: white;
+    z-index: 99999;
+}

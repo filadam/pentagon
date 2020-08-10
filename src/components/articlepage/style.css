@@ -1,0 +1,28 @@
+.articlesContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    /* border: 1px solid black; */
+    padding: 10px;
+    font-family: "Spectral";
+}
+
+.articlesContainer ul {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+ul {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+li a {
+        font-size: 16px;
+        color: black;
+        font-weight: bold;
+}
